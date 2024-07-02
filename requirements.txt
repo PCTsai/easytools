@@ -1,0 +1,5 @@
+### Uncomment the following lines to install the required packages
+
+### video crop
+# opencv-python
+# tqdm
